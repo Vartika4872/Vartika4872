@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vartika4872
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
